@@ -1,2 +1,2 @@
 Archivo Rama2
-Volver a revertir el commit - Commit1
+Volver a revertir el commit
