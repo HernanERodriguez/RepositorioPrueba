@@ -1,2 +1,9 @@
 # RepositorioPrueba
+<<<<<<< HEAD
 Repositorio Prueba
+=======
+Repositorio Prueba - Commit3
+.
+.
+.
+>>>>>>> 7adff70... Validador 0 - 4
